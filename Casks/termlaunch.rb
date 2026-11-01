@@ -8,7 +8,7 @@ cask "termlaunch" do
   homepage "https://github.com/s303/TermLaunch"
 
   depends_on arch: :arm64
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
 
   app "TermLaunch.app"
 
