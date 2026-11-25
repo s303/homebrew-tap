@@ -1,6 +1,6 @@
 cask "termlaunch" do
-  version "0.31"
-  sha256 "0bea9844ffd6c39644e65b205c0e12fb07fc31f00802d5f733541bcf2fa2e940"
+  version "0.32"
+  sha256 "ce69818699a7c0dd4841b4e66d3577a70d957be3fde6bdbb5340d0904846b565"
 
   url "https://github.com/s303/TermLaunch/releases/download/v#{version}/TermLaunch-#{version}-arm64.zip"
   name "TermLaunch"
